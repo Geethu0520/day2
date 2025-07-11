@@ -23,3 +23,4 @@ s1.set_marks(105)
 print(f"Student marks (after valid input): ",s1.get_marks())
 
 
+s1.set_marks(80)
